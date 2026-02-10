@@ -1,6 +1,6 @@
 # Document Indexing and Search Service
 
-**GRADE: 20/20
+**GRADE: 20/20**
 
 This project was developed for the Operating Systems course, part of the 2nd year of the Bachelor's degree in Software Engineering at the University of Minho, during the 2024/2025 academic year.
 
